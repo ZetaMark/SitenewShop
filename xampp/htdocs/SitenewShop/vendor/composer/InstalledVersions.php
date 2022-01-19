@@ -32,7 +32,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'd3a21b0f06a115bbc4fc5d5c61507e6ff765247e',
+    'reference' => '8f4a8e26387928713db7bc82ff51c588a1161e98',
     'name' => '__root__',
   ),
   'versions' => 
@@ -44,7 +44,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'd3a21b0f06a115bbc4fc5d5c61507e6ff765247e',
+      'reference' => '8f4a8e26387928713db7bc82ff51c588a1161e98',
     ),
     'barryvdh/laravel-ide-helper' => 
     array (
