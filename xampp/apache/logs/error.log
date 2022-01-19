@@ -42,3 +42,4 @@
 [Wed Jan 19 20:58:17.838609 2022] [mpm_winnt:notice] [pid 4860:tid 652] AH00418: Parent: Created child process 7660
 [Wed Jan 19 20:58:18.331461 2022] [ssl:warn] [pid 7660:tid 648] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Wed Jan 19 20:58:18.385467 2022] [ssl:warn] [pid 7660:tid 648] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 19 20:58:18.413468 2022] [mpm_winnt:notice] [pid 7660:tid 648] AH00354: Child: Starting 150 worker threads.
